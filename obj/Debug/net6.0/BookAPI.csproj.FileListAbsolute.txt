@@ -1,0 +1,7 @@
+C:\Users\Patricia\Desktop\certificador patty\ads\estudos DIO\estudo csharp\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.csproj.AssemblyReference.cache
+C:\Users\Patricia\Desktop\certificador patty\ads\estudos DIO\estudo csharp\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\certificador patty\ads\estudos DIO\estudo csharp\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\certificador patty\ads\estudos DIO\estudo csharp\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\certificador patty\ads\estudos DIO\estudo csharp\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\certificador patty\ads\estudos DIO\estudo csharp\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patricia\Desktop\certificador patty\ads\estudos DIO\estudo csharp\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
